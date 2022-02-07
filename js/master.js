@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function() {
       width: slider.offsetWidth,
       height: slider.offsetHeight,
       autoResize: true,
-      backgroundColor: 0x1D1D1D, resolution: window.devicePixelRatio || 1,
+      backgroundColor: 0x373737, resolution: window.devicePixelRatio || 1,
   });
   slider.appendChild(renderer.view);
   let disSprite = PIXI.Sprite.from('./img/disimg2.jpg')
