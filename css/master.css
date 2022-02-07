@@ -1,0 +1,41 @@
+h1{
+  font-family: 'Oswald', sans-serif;
+}
+.bgrey{
+  background: #373737;
+}
+.tgrey{
+  color: #A4A4A4;
+}
+.twite{
+  color: #E1E1E1;
+}
+.t30{
+  font-size: 30px;
+}
+.t24{
+  font-size: 24px;
+}
+.t18{
+  font-size: 18px;
+}
+.leftMenu{
+
+}
+.p30{
+  padding: 30px;
+}
+.tgrey.select{
+  color: #E1E1E1;
+}
+.vh100{
+  height: 100vh;
+  overflow: hidden;
+}
+.borrig{
+  width: 355px;
+  border-right: 1px solid #474747;
+}
+.link{
+  cursor: pointer;
+}
